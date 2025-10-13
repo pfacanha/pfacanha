@@ -9,7 +9,7 @@ As a Full Stack Developer, I build complete web applications from front-end to b
 <p align="left">
 </p>
 
-* 🌍  I'm based in Vancouver Island
+* 🌍  I'm based in Vancouver Island, BC, Canada
 * ✉️  You can contact me at [pfacanha.dev@gmail.com](mailto:pedruluizmf@gmail.com)
 * 🧠  I'm learning French 🟦⬜🟥
 * 🤝  I'm open to collaborating on Projects

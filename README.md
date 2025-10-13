@@ -14,6 +14,8 @@ As a Full Stack Developer, I build complete web applications from front-end to b
 * 🧠  I'm learning French 🟦⬜🟥
 * 🤝  I'm open to collaborating on Projects
 
+
+
 <a href="mailto:pfacanha.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/pfacanha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 

@@ -4,7 +4,7 @@ Hey! 👋 I'm Pedro Facanha
 Full Stack Developer
 --------------------
 
-I build complete web applications from front-end to back-end. I craft engaging user interfaces with HTML, CSS, and JavaScript, and develop robust server-side solutions using languages like React.js, Node.js, Python, or Java. My experience includes managing databases, deploying applications, and implementing CI/CD practices. Passionate about problem-solving and continuous learning, I create efficient, end-to-end solutions that meet user and business needs.
+I build complete web applications from front-end to back-end. I craft engaging user interfaces with HTML, CSS, and JavaScript, and develop robust server-side solutions using languages like React.js, Node.js, Python, or Java. My experience includes managing databases and deploying applications. Passionate about problem-solving and continuous learning, I create efficient, end-to-end solutions that meet user and business needs.
 
 <p align="left">
 </p>

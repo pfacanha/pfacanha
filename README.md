@@ -92,20 +92,41 @@ I build complete web applications from front-end to back-end. I craft engaging u
 
 <b>My GitHub Stats</b>
 
-<p align="center">
-  <a href="https://github.com/pfacanha">
-    <img src="https://github-readme-stats.vercel.app/api?username=pfacanha&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=1&cache_seconds=7200" alt="pfacanha's GitHub stats" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <!-- Stats (left) -->
+    <td width="55%" align="center">
+      <a href="https://github.com/pfacanha">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=pfacanha&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&cache_seconds=7200"
+          alt="pfacanha's GitHub stats"
+          width="100%"
+        />
+      </a>
+    </td>
 
-<p align="center">
-  <a href="https://github.com/pfacanha">
-    <img src="https://streak-stats.demolab.com?user=pfacanha&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="pfacanha's GitHub streak stats" />
-  </a>
-</p>
+    <!-- Top Languages (right) -->
+    <td width="45%" align="center">
+      <a href="https://github.com/pfacanha">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfacanha&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6&v=2&cache_seconds=7200"
+          alt="Top Languages"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
 
-<p align="center">
-  <a href="https://github.com/pfacanha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfacanha&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6&v=1&cache_seconds=7200" alt="Top Languages" />
-  </a>
-</p>
+  <!-- Streak (full width) -->
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/pfacanha">
+        <img
+          src="https://streak-stats.demolab.com?user=pfacanha&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+          alt="pfacanha's GitHub streak stats"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>

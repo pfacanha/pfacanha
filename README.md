@@ -105,8 +105,8 @@ I build complete web applications from front-end to back-end. I craft engaging u
       </a>
     </td>
 
-    <!-- Top Languages (right) -->
-    <td width="45%" align="center">
+  <!-- Top Languages (right) -->
+  <td width="45%" align="center">
       <a href="https://github.com/pfacanha">
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfacanha&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6&v=2&cache_seconds=7200"

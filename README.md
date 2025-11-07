@@ -6,8 +6,7 @@ Full Stack Developer
 
 I build complete web applications from front-end to back-end. I craft engaging user interfaces with HTML, CSS, and JavaScript, and develop robust server-side solutions using languages like React.js, Node.js, Python, or Java. My experience includes managing databases and deploying applications. Passionate about problem-solving and continuous learning, I create efficient, end-to-end solutions that meet user and business needs.
 
-<p align="left">
-</p>
+<p align="left"></p>
 
 * 🌍  I'm based in Vancouver Island, BC, Canada  
 * 🧠  I'm learning French 🟦⬜🟥  
@@ -93,9 +92,20 @@ I build complete web applications from front-end to back-end. I craft engaging u
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/pfacanha">
-  <img src="https://github-readme-stats.vercel.app/api?username=pfacanha&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=1&cache_seconds=7200" alt="pfacanha's GitHub stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/pfacanha">
+    <img src="https://github-readme-stats.vercel.app/api?username=pfacanha&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=1&cache_seconds=7200" alt="pfacanha's GitHub stats" />
+  </a>
+</p>
 
-<a href="https://github.com/pfacanha">
-  <img src="https://streak-stats.demolab.com?user=pfacanha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="pfacanha's_
+<p align="center">
+  <a href="https://github.com/pfacanha">
+    <img src="https://streak-stats.demolab.com?user=pfacanha&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="pfacanha's GitHub streak stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pfacanha">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfacanha&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6&v=1&cache_seconds=7200" alt="Top Languages" />
+  </a>
+</p>

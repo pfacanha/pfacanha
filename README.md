@@ -95,7 +95,7 @@ I build complete web applications from front-end to back-end. I craft engaging u
 <table width="100%">
   <tr>
     <!-- Stats (left) -->
-    <td width="60%" align="center">
+    <td width="55%" align="center">
       <a href="https://github.com/pfacanha">
         <img
           src="https://github-readme-stats.vercel.app/api?username=pfacanha&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&cache_seconds=7200"
@@ -106,7 +106,7 @@ I build complete web applications from front-end to back-end. I craft engaging u
     </td>
 
   <!-- Top Languages (right) -->
-  <td width="40%" align="center">
+  <td width="45%" align="center">
       <a href="https://github.com/pfacanha">
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfacanha&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6&v=2&cache_seconds=7200"
